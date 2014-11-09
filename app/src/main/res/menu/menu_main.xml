@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:visible="false"
+        android:title="@string/action_settings" />
+    <item
+        android:id="@+id/activity_standard"
+        android:orderInCategory="101"
+        android:title="@string/activity_standard" />
+    <item
+        android:id="@+id/activity_singletop"
+        android:orderInCategory="101"
+        android:title="@string/activity_singletop" />
+    <item
+        android:id="@+id/activity_singletask"
+        android:orderInCategory="101"
+        android:title="@string/activity_singletask" />
+    <item
+        android:id="@+id/activity_singleinstance"
+        android:orderInCategory="101"
+        android:title="@string/activity_singleinstance" />
+</menu>

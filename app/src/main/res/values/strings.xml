@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActivityStacksTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="activity_standard">standard</string>
+    <string name="activity_singletop">singleTop</string>
+    <string name="activity_singletask">singleTask</string>
+    <string name="activity_singleinstance">singleInstance</string>
+</resources>
